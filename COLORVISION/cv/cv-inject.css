@@ -1,0 +1,39 @@
+
+
+/*use this to define css style into html file with svg filters
+*/
+
+.protanopia{
+	filter: url('#protanopia');
+	-webkit-filter: url('#protanopia');
+	color-interpolation-filters:sRGB;	
+}
+
+.deuteranopia{
+	filter: url('#deuteranopia');
+	-webkit-filter: url('#deuteranopia');
+	color-interpolation-filters:sRGB;	
+}
+
+.tritanopia{
+	filter: url('#tritanopia');
+	-webkit-filter: url('#tritanopia');
+	color-interpolation-filters:sRGB;	
+}
+
+.protanomaly{
+	filter: url('#protanomaly');
+	-webkit-filter: url('#protanomaly');
+	color-interpolation-filters:sRGB;	
+}
+
+.deuteranomaly{
+	filter: url('#deuteranomaly');
+	-webkit-filter: url('#deuteranomaly');
+	color-interpolation-filters:sRGB;	
+}
+.tritanomaly{
+	filter: url('#tritanomaly');
+	-webkit-filter: url('#tritanomaly');
+	color-interpolation-filters:sRGB;	
+}

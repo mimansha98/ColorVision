@@ -1,0 +1,37 @@
+
+
+.protanopia{
+	filter: url('cv.svg#protanopia');
+	-webkit-filter: url('cv.svg#protanopia');
+	color-interpolation-filters:sRGB;	
+}
+
+.deuteranopia{
+	filter: url('cv.svg#deuteranopia');
+	-webkit-filter: url('cv.svg#deuteranopia');
+	color-interpolation-filters:sRGB;	
+}
+
+.tritanopia{
+	filter: url('cv.svg#tritanopia');
+	-webkit-filter: url('cv.svg#tritanopia');
+	color-interpolation-filters:sRGB;	
+}
+
+
+.protanomaly{
+	filter: url('cv.svg#protanomaly');
+	-webkit-filter: url('cv.svg#protanomaly');
+	color-interpolation-filters:sRGB;	
+}
+
+.deuteranomaly{
+	filter: url('cv.svg#deuteranomaly');
+	-webkit-filter: url('cv.svg#deuteranomaly');
+	color-interpolation-filters:sRGB;	
+}
+.tritanomaly{
+	filter: url('cv.svg#tritanomaly');
+	-webkit-filter: url('cv.svg#tritanomaly');
+	color-interpolation-filters:sRGB;	
+}
