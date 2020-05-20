@@ -1,4 +1,4 @@
-//copyright(c) 2019  Mimansha Agrawal and Kritika Sagar
+//copyright(c) 2019  Mimansha Agrawal
 
 # ColorVision
 This help visually impaired one's to get better color perception
